@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; }
+nav a { margin: 0 10px; text-decoration: none; color: #0055aa;}
+nav a:hover { text-decoration: underline; }
+#app { margin-top: 20px; }
